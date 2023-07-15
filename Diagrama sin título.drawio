@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-15T20:45:42.734Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="P2rV_9r9IiMuWuaKGU9r" version="21.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-15T20:46:10.203Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="fPPFUd0ytAAW7iVu-c47" version="21.6.2" type="github">
   <diagram name="Page-1" id="2ca16b54-16f6-2749-3443-fa8db7711227">
     <mxGraphModel dx="1228" dy="621" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -439,11 +439,11 @@
             <mxRectangle width="60" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="iAKwweV7uUN-Bd6oFzp1-61" value="active, default, paid off" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="900" y="330" width="140" height="30" as="geometry" />
+        <mxCell id="iAKwweV7uUN-Bd6oFzp1-61" value="*active, default, paid off" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="895" y="330" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="iAKwweV7uUN-Bd6oFzp1-62" value="*may contain &quot;-&quot;, &quot;+&quot;, &quot;(&quot;, &quot;)&quot;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="405" y="270" width="170" height="30" as="geometry" />
+          <mxGeometry x="324" y="244" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="iAKwweV7uUN-Bd6oFzp1-63" value="*customer may have paid sooner, later or on the scheduled date" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="530" y="490" width="360" height="30" as="geometry" />
