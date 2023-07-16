@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-16T21:01:43.629Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="C47xvXMU3k7J7WjYkgXw" version="21.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-16T22:38:57.960Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="bVb111DZJr3qs5wZN3MN" version="21.6.2" type="github">
   <diagram name="Page-1" id="2ca16b54-16f6-2749-3443-fa8db7711227">
     <mxGraphModel dx="1228" dy="621" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -517,8 +517,8 @@
             <mxPoint x="670" y="156" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="iAKwweV7uUN-Bd6oFzp1-119" value="*weekly, biweekly, monthly," style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="930" y="160" width="170" height="30" as="geometry" />
+        <mxCell id="iAKwweV7uUN-Bd6oFzp1-119" value="*biweekly, monthly," style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="937" y="163" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="iAKwweV7uUN-Bd6oFzp1-120" value="LOAN_STATUS" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;" parent="1" vertex="1">
           <mxGeometry x="600" y="675" width="280" height="90" as="geometry">
@@ -568,7 +568,7 @@
           <mxGeometry x="16" y="350" width="280" height="30" as="geometry" />
         </mxCell>
         <mxCell id="iAKwweV7uUN-Bd6oFzp1-158" value="*customer may have more than active two loans" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="16" y="760" width="280" height="30" as="geometry" />
+          <mxGeometry x="70" y="735" width="280" height="30" as="geometry" />
         </mxCell>
         <mxCell id="iAKwweV7uUN-Bd6oFzp1-159" value="AMORTIZATION_STATUS" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;" parent="1" vertex="1">
           <mxGeometry x="600" y="460" width="280" height="90" as="geometry">
